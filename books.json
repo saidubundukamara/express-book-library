@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "description": "A story about teenage rebellion and angst as narrated by the iconic Holden Caulfield."
+    },
+    {
+      "id": 2,
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "description": "A novel set in the American South during the 1930s, focusing on themes of racial injustice and moral growth."
+    },
+    {
+      "id": 3,
+      "title": "1984",
+      "author": "George Orwell",
+      "description": "A dystopian novel exploring themes of totalitarianism, surveillance, and individualism."
+    },
+    {
+      "id": 4,
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "description": "A classic romance novel that deals with themes of class, family, and societal expectations in 19th century England."
+    },
+    {
+      "id": 5,
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "description": "A novel about the American Dream and the disillusionment of the Jazz Age, centered on the enigmatic Jay Gatsby."
+    },
+    {
+        "id": 6,
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "description": "A fantasy novel about an unlikely hero and his quest to reclaim the lost realm of Middle-earth."
+    }
+  ]
